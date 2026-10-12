@@ -1,0 +1,66 @@
+[
+  {
+    "name": "UO Memento",
+    "ip": "uo-memento.com",
+    "port": 2593,
+    "encryption": false,
+    "website": "",
+    "icon": ""
+  },
+  {
+    "name": "Insane UO",
+    "ip": "play.insaneuo.com",
+    "port": 2593,
+    "encryption": false,
+    "website": "",
+    "icon": ""
+  },
+  {
+    "name": "Eventine",
+    "ip": "shard.uoeventine.net",
+    "port": 2593,
+    "encryption": false,
+    "website": "",
+    "icon": ""
+  },
+  {
+    "name": "UO Alive",
+    "ip": "login.uoalive.com",
+    "port": 2593,
+    "encryption": false,
+    "website": "",
+    "icon": ""
+  },
+  {
+    "name": "Unchained",
+    "ip": "login.patchuo.com",
+    "port": 2593,
+    "encryption": false,
+    "website": "",
+    "icon": ""
+  },
+  {
+    "name": "Faerham Citadel",
+    "ip": "play.uorealms.com",
+    "port": 2593,
+    "encryption": false,
+    "website": "",
+    "icon": ""
+  },
+  {
+    "name": "Dawn of Ages: Reborn",
+    "ip": "dawnofagesreborn.servegame.com",
+    "port": 2593,
+    "encryption": false,
+    "website": "",
+    "icon": ""
+  },
+  {
+    "name": "OSI",
+    "ip": "75.2.70.184",
+    "port": 7776,
+    "encryption": true,
+    "website": "",
+    "icon": ""
+  }
+]
