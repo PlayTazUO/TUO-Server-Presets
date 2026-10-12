@@ -5,7 +5,8 @@
     "port": 2593,
     "encryption": false,
     "website": "https://uo-memento.com/",
-    "icon": "https://uo-memento.com/assets/images/memento-m.png"
+    "icon": "https://uo-memento.com/assets/images/memento-m.png",
+    "background": ""
   },
   {
     "name": "Insane UO",
@@ -13,7 +14,8 @@
     "port": 2593,
     "encryption": false,
     "website": "",
-    "icon": ""
+    "icon": "",
+    "background": ""
   },
   {
     "name": "Eventine",
@@ -21,7 +23,8 @@
     "port": 2593,
     "encryption": false,
     "website": "",
-    "icon": ""
+    "icon": "",
+    "background": ""
   },
   {
     "name": "UO Alive",
@@ -29,7 +32,8 @@
     "port": 2593,
     "encryption": false,
     "website": "",
-    "icon": ""
+    "icon": "",
+    "background": ""
   },
   {
     "name": "Unchained",
@@ -37,7 +41,8 @@
     "port": 2593,
     "encryption": false,
     "website": "",
-    "icon": ""
+    "icon": "",
+    "background": ""
   },
   {
     "name": "Faerham Citadel",
@@ -45,7 +50,8 @@
     "port": 2593,
     "encryption": false,
     "website": "",
-    "icon": ""
+    "icon": "",
+    "background": ""
   },
   {
     "name": "Dawn of Ages: Reborn",
@@ -53,7 +59,8 @@
     "port": 2593,
     "encryption": false,
     "website": "",
-    "icon": ""
+    "icon": "",
+    "background": ""
   },
   {
     "name": "OSI",
@@ -61,6 +68,7 @@
     "port": 7776,
     "encryption": true,
     "website": "",
-    "icon": ""
+    "icon": "",
+    "background": ""
   }
 ]
