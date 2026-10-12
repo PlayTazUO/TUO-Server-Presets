@@ -45,6 +45,15 @@
     "background": ""
   },
   {
+    "name": "Zuluhotel Omega",
+    "ip": "zuluhotelomega.dynu.net",
+    "port": 2593,
+    "encryption": false,
+    "website": "https://zuluhotelomega.com/",
+    "icon": "https://zuluhotelomega.com/assets/images/logo.png",
+    "background": "https://zuluhotelomega.com/assets/images/taz-background.png"
+  },
+  {
     "name": "Faerham Citadel",
     "ip": "play.uorealms.com",
     "port": 2593,
