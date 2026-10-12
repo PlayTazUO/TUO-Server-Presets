@@ -54,15 +54,6 @@
     "background": ""
   },
   {
-    "name": "Dawn of Ages: Reborn",
-    "ip": "dawnofagesreborn.servegame.com",
-    "port": 2593,
-    "encryption": false,
-    "website": "",
-    "icon": "",
-    "background": ""
-  },
-  {
     "name": "OSI",
     "ip": "75.2.70.184",
     "port": 7776,
