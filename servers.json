@@ -1,5 +1,14 @@
 [
   {
+    "name": "The Crossroads",
+    "ip": "login.uocrossroads.net",
+    "port": 2593,
+    "encryption": true,
+    "website": "https://www.uocrossroads.net/",
+    "icon": "https://www.uocrossroads.net/images/logo100.png",
+    "background": "https://www.uocrossroads.net/images/taz-background.png"
+  },
+  {
     "name": "UO Memento",
     "ip": "uo-memento.com",
     "port": 2593,
